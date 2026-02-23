@@ -1,4 +1,4 @@
-name = "sub-worker"
+name = 'cf-workers-sub'
 main = "_worker.js"
 compatibility_date = "2025-07-23"
 keep_vars = true
@@ -7,3 +7,4 @@ keep_vars = true
 #binding = "KV"			#KV绑定名默认不可修改
 
 #id = "5bded46428ab4cf5ad994793bbc5c809"					#KV据库id
+
